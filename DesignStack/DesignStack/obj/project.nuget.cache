@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/lA+iCCile9S9YAaUT2ycy1OFVYS06/fRI4Xa+7Aa6DeRUytnW4p0A+1W8WyX3tSv1syP1X/2SBZYyb+y50pTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Air71\\source\\repos\\DesignStack\\DesignStack\\DesignStack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Air71\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}

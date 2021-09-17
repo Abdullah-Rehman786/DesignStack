@@ -1,0 +1,14 @@
+C:\Users\Air71\source\repos\DesignStack\DesignStack\bin\Debug\netcoreapp3.1\DesignStack.exe
+C:\Users\Air71\source\repos\DesignStack\DesignStack\bin\Debug\netcoreapp3.1\DesignStack.deps.json
+C:\Users\Air71\source\repos\DesignStack\DesignStack\bin\Debug\netcoreapp3.1\DesignStack.runtimeconfig.json
+C:\Users\Air71\source\repos\DesignStack\DesignStack\bin\Debug\netcoreapp3.1\DesignStack.runtimeconfig.dev.json
+C:\Users\Air71\source\repos\DesignStack\DesignStack\bin\Debug\netcoreapp3.1\DesignStack.dll
+C:\Users\Air71\source\repos\DesignStack\DesignStack\bin\Debug\netcoreapp3.1\DesignStack.pdb
+C:\Users\Air71\source\repos\DesignStack\DesignStack\obj\Debug\netcoreapp3.1\DesignStack.csproj.AssemblyReference.cache
+C:\Users\Air71\source\repos\DesignStack\DesignStack\obj\Debug\netcoreapp3.1\DesignStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Air71\source\repos\DesignStack\DesignStack\obj\Debug\netcoreapp3.1\DesignStack.AssemblyInfoInputs.cache
+C:\Users\Air71\source\repos\DesignStack\DesignStack\obj\Debug\netcoreapp3.1\DesignStack.AssemblyInfo.cs
+C:\Users\Air71\source\repos\DesignStack\DesignStack\obj\Debug\netcoreapp3.1\DesignStack.csproj.CoreCompileInputs.cache
+C:\Users\Air71\source\repos\DesignStack\DesignStack\obj\Debug\netcoreapp3.1\DesignStack.dll
+C:\Users\Air71\source\repos\DesignStack\DesignStack\obj\Debug\netcoreapp3.1\DesignStack.pdb
+C:\Users\Air71\source\repos\DesignStack\DesignStack\obj\Debug\netcoreapp3.1\DesignStack.genruntimeconfig.cache
